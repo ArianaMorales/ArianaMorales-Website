@@ -40,5 +40,5 @@ can sync one file with multiple locations and accounts.
 ![carwash](img/carwash.png)
 ![school](img/school.jpg)
 
+![Screenshot](img/ResumeWebsite.png)
 
-![ResumeWebsiteScreenshot](img/ResumeWebsiteScreenshot.png)
